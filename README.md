@@ -1,11 +1,14 @@
 <div align="center">
 
-<!-- HERO BANNER -->
+<!-- POKESHELL ANIMATED TERMINAL BANNER -->
 <a href="https://github.com/rahul-1909">
-  <img src="https://raw.githubusercontent.com/rahul-1909/rahul-1909/main/banner.svg" width="100%" alt="Rahul Teja Nalla - Software Engineer" />
+  <img src="https://raw.githubusercontent.com/rahul-1909/rahul-1909/main/pokeshell.gif" width="100%" alt="Legendary Pokémon Banner" />
 </a>
 
 <br/><br/>
+
+<!-- NAME & TITLE -->
+<h1>⚡ Rahul Teja Nalla ⚡</h1>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/rahul-1909">
@@ -142,50 +145,82 @@ Production-ready skills and technologies categorized by Pokémon Elemental affin
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🥇 <a href="https://github.com/rahul-1909/gold-lending-platform">Gold Lending Platform</a></h3>
-      <p><b>Enterprise Loan Lifecycle & Bullion Valuation Engine</b></p>
-      <p>End-to-end full-stack platform automating high-value lending: customer digital KYC onboarding, live 75% LTV bullion valuation calculator (8K-24K), collateral inspection, multi-role approval, and disbursement decisioning.</p>
-      <p>
-        <code>Spring Boot 3.5</code> <code>Angular 20</code> <code>Tailwind CSS</code> <code>MySQL 9</code> <code>JWT RBAC</code>
-      </p>
-      <a href="https://github.com/rahul-1909/gold-lending-platform">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
-      </a>
+      <table width="100%">
+        <tr>
+          <td valign="top">
+            <h3>🥇 <a href="https://github.com/rahul-1909/gold-lending-platform">Gold Lending Platform</a></h3>
+            <p><b>Enterprise Loan Lifecycle & Bullion Valuation Engine</b></p>
+            <p>End-to-end full-stack platform automating high-value lending: customer digital KYC onboarding, live 75% LTV bullion valuation calculator (8K-24K), collateral inspection, multi-role approval, and disbursement decisioning.</p>
+            <p><code>Spring Boot 3.5</code> <code>Angular 20</code> <code>Tailwind CSS</code> <code>MySQL 9</code> <code>JWT RBAC</code></p>
+            <a href="https://github.com/rahul-1909/gold-lending-platform">
+              <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
+            </a>
+          </td>
+          <td width="90" align="center" valign="middle">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/149.gif" width="85" alt="Dragonite" /><br/>
+            <sub><b>Dragonite</b></sub>
+          </td>
+        </tr>
+      </table>
     </td>
     <td width="50%" valign="top">
-      <h3>🔮 <a href="https://github.com/rahul-1909/Natural-Language-to-SQL-Converter">NL-to-SQL Analytics Copilot</a></h3>
-      <p><b>Voice-Dictated Text-to-SQL Analytics Engine with Plotly</b></p>
-      <p>Intelligent analytics copilot featuring real-time speech dictation (Groq Whisper), schema introspection, hybrid data ingestion (SQLite demo, CSV auto-mapping, MySQL), and automatic Plotly interactive visualizations.</p>
-      <p>
-        <code>Python</code> <code>Groq Whisper</code> <code>GenAI / LLMs</code> <code>Plotly</code> <code>SQL</code>
-      </p>
-      <a href="https://github.com/rahul-1909/Natural-Language-to-SQL-Converter">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
-      </a>
+      <table width="100%">
+        <tr>
+          <td valign="top">
+            <h3>🔮 <a href="https://github.com/rahul-1909/Natural-Language-to-SQL-Converter">NL-to-SQL Analytics Copilot</a></h3>
+            <p><b>Voice-Dictated Text-to-SQL Analytics Engine with Plotly</b></p>
+            <p>Intelligent analytics copilot featuring real-time speech dictation (Groq Whisper), schema introspection, hybrid data ingestion (SQLite demo, CSV auto-mapping, MySQL), and automatic Plotly interactive visualizations.</p>
+            <p><code>Python</code> <code>Groq Whisper</code> <code>GenAI / LLMs</code> <code>Plotly</code> <code>SQL</code></p>
+            <a href="https://github.com/rahul-1909/Natural-Language-to-SQL-Converter">
+              <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
+            </a>
+          </td>
+          <td width="90" align="center" valign="middle">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" width="85" alt="Mewtwo" /><br/>
+            <sub><b>Mewtwo</b></sub>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📹 <a href="https://github.com/rahul-1909/Video-kyc">Interactive Video-KYC Tool</a></h3>
-      <p><b>Automated Digital Customer Identity Verification</b></p>
-      <p>Transforms traditional manual compliance into an intuitive, self-sufficient, online video KYC experience. Eliminates turnaround bottlenecks for regulated onboarding with automated streaming validation.</p>
-      <p>
-        <code>Interactive Media</code> <code>Compliance & Security</code> <code>Full-Stack</code>
-      </p>
-      <a href="https://github.com/rahul-1909/Video-kyc">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
-      </a>
+      <table width="100%">
+        <tr>
+          <td valign="top">
+            <h3>📹 <a href="https://github.com/rahul-1909/Video-kyc">Interactive Video-KYC Tool</a></h3>
+            <p><b>Automated Digital Customer Identity Verification</b></p>
+            <p>Transforms traditional manual compliance into an intuitive, self-sufficient, online video KYC experience. Eliminates turnaround bottlenecks for regulated onboarding with automated streaming validation.</p>
+            <p><code>Interactive Media</code> <code>Compliance & Security</code> <code>Full-Stack</code></p>
+            <a href="https://github.com/rahul-1909/Video-kyc">
+              <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
+            </a>
+          </td>
+          <td width="90" align="center" valign="middle">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/479.gif" width="75" alt="Rotom" /><br/>
+            <sub><b>Rotom</b></sub>
+          </td>
+        </tr>
+      </table>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/rahul-1909/ROS-telemetry">ROS Telemetry & Analytics</a></h3>
-      <p><b>Robotics Operating System Telemetry & Monitoring</b></p>
-      <p>Real-time sensor telemetry stream processor and diagnostic tool for robotics systems, capturing runtime metrics and node status for mission-critical operations.</p>
-      <p>
-        <code>Python</code> <code>ROS</code> <code>Telemetry</code> <code>Real-Time Streaming</code>
-      </p>
-      <a href="https://github.com/rahul-1909/ROS-telemetry">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
-      </a>
+      <table width="100%">
+        <tr>
+          <td valign="top">
+            <h3>🤖 <a href="https://github.com/rahul-1909/ROS-telemetry">ROS Telemetry & Analytics</a></h3>
+            <p><b>Robotics Operating System Telemetry & Monitoring</b></p>
+            <p>Real-time sensor telemetry stream processor and diagnostic tool for robotics systems, capturing runtime metrics and node status for mission-critical operations.</p>
+            <p><code>Python</code> <code>ROS</code> <code>Telemetry</code> <code>Real-Time Streaming</code></p>
+            <a href="https://github.com/rahul-1909/ROS-telemetry">
+              <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
+            </a>
+          </td>
+          <td width="90" align="center" valign="middle">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/376.gif" width="85" alt="Metagross" /><br/>
+            <sub><b>Metagross</b></sub>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
