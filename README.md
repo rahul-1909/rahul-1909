@@ -1,242 +1,149 @@
-<div align="center">
+# Rahul Teja Nalla
 
-<!-- POKESHELL ANIMATED TERMINAL BANNER -->
-<a href="https://github.com/rahul-1909">
-  <img src="https://raw.githubusercontent.com/rahul-1909/rahul-1909/main/pokeshell.gif" width="100%" alt="Legendary Pokémon Banner" />
-</a>
-
-<br/><br/>
-
-<!-- VIBRANT ATTRACTIVE NAME -->
-<a href="https://github.com/rahul-1909">
-  <img src="https://raw.githubusercontent.com/rahul-1909/rahul-1909/main/name.svg" width="650" alt="Rahul Teja Nalla" />
-</a>
-
-<br/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/rahul-1909">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=F7D02C&center=true&vCenter=true&width=750&lines=A+wild+Software+Engineer+appeared!;Backend+Engineering+%26+Distributed+Systems+(Java%2C+Spring%2C+Python);AI+%26+Machine+Learning+Engineering+(LLMs%2C+RAG%2C+PyTorch);Full-Stack+Development+(React%2C+Angular%2C+TypeScript);Cloud+Infrastructure%2C+DevOps+%26+Site+Reliability+Engineering+(SRE);Architecting+scalable%2C+resilient%2C+high-concurrency+systems!" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- TARGETED ROLES & STATUS BADGES -->
-<p align="center">
-  <a href="https://github.com/rahul-1909">
-    <img src="https://img.shields.io/badge/Trainer_Status-Open_to_Opportunities-2ecc71?style=for-the-badge&logo=pokemon&logoColor=white" alt="Status" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/rahul-1909">
-    <img src="https://img.shields.io/badge/Target_Roles-Backend_•_AI/ML_•_FullStack_•_SRE-4A90E2?style=for-the-badge&logo=target&logoColor=white" alt="Target Roles" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/rahul-1909">
-    <img src="https://img.shields.io/badge/Core_Focus-High_Concurrency_%26_Scale-7928CA?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Core Focus" />
-  </a>
+<p align="left">
+  <b>Software Engineer &middot; Backend Systems &middot; Applied AI/ML</b><br/>
+  Hyderabad, India &middot; Open to Worldwide Remote &amp; Relocation
 </p>
 
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/nallarahulteja" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:nrahulteja@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-nrahulteja%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/rahul-1909?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-success?style=flat-square" alt="Status" />
+</p>
 
 ---
 
-### 🎮 &nbsp;Trainer Profile & Pokédex Card
+### Executive Summary
 
-<table align="center" width="100%">
+I am a Software Engineer focused on architecting resilient backend systems, scalable microservices, and applied AI/ML applications. My technical background spans enterprise Java/Spring Boot development, Python-driven machine learning pipelines, and modern full-stack web platforms. I prioritize clean architecture, strict type safety, end-to-end observability, and production reliability.
+
+- **Backend &amp; Distributed Systems**: Designing high-throughput, multi-tier microservices with Java 17+, Spring Boot, Python (FastAPI), RESTful APIs, and secure stateless JWT/OAuth2 authentication.
+- **Applied AI &amp; Machine Learning**: Developing real-time Text-to-SQL copilots (Groq Whisper, LLMs), retrieval-augmented generation (RAG) pipelines, schema introspection, and automated visual analytics.
+- **Full-Stack Engineering**: Crafting responsive, type-safe web frontends using Angular, React, TypeScript, and Tailwind CSS.
+- **Data &amp; Infrastructure**: Building reliable data schemas with MySQL and PostgreSQL, managing caching with Redis, event streaming with Kafka, and containerizing services with Docker and Linux.
+
+---
+
+### Technical Competencies
+
+<table>
   <tr>
-    <td align="center" width="20%" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/94.gif" width="120" alt="Gengar Sprite" /><br/>
-      <sub><b>PARTNER: GENGAR</b></sub><br/>
-      <img src="https://img.shields.io/badge/Type-Ghost%20%2F%20Poison-705898?style=flat-square" alt="Gengar Type" />
+    <td width="25%" valign="top"><b>Languages</b></td>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="34" height="34" />
+      <br/><sub>Java, Python, TypeScript, JavaScript (ES6+), C++, HTML5, CSS3</sub>
     </td>
-    <td width="60%" valign="top">
-      <p>
-        ⚡ <b>Trainer Name:</b> Rahul Teja Nalla<br/>
-        🧢 <b>Trainer Class:</b> Software Engineer & Systems Architect<br/>
-        📍 <b>Region / HQ:</b> Hyderabad, India (Open to Worldwide Remote & Relocation)<br/>
-        🎯 <b>Target Roles:</b> Backend Developer | AI/ML Engineer | Full-Stack Developer | Data Engineer | DevOps & SRE<br/>
-        ⚔️ <b>Battle Style:</b> Clean Architecture, Type-Safety, High Concurrency & Resilient Systems<br/>
-        🔮 <b>Current Quest:</b> Engineering autonomous AI copilots, distributed backends & scalable cloud platforms<br/>
-        🏆 <b>Level:</b> Production-ready engineer solving high-impact, complex engineering challenges
-      </p>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Backend &amp; Architecture</b></td>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman / REST APIs" width="34" height="34" />
+      <br/><sub>Spring Boot 3.5, FastAPI, Node.js, RESTful APIs, Microservices, Stateless JWT RBAC</sub>
     </td>
-    <td align="center" width="20%" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/448.gif" width="115" alt="Lucario Sprite" /><br/>
-      <sub><b>PARTNER: LUCARIO</b></sub><br/>
-      <img src="https://img.shields.io/badge/Type-Fighting%20%2F%20Steel-2A4958?style=flat-square" alt="Lucario Type" />
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>AI &amp; Machine Learning</b></td>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" title="Scikit-Learn" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="34" height="34" />
+      <br/><sub>Large Language Models (LLMs), RAG Pipelines, Groq Whisper API, Prompt Engineering, Model Inference</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Frontend &amp; Full-Stack</b></td>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="34" height="34" />
+      <br/><sub>Angular 20, React, Next.js, Tailwind CSS, Angular Material, Component-Driven Architecture</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Databases &amp; Streaming</b></td>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Apache Kafka" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="34" height="34" />
+      <br/><sub>PostgreSQL, MySQL 9, Apache Kafka, Redis (Caching), MongoDB, SQLite</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top"><b>Cloud &amp; DevOps</b></td>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" title="Google Cloud" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="34" height="34" />&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="34" height="34" />
+      <br/><sub>Docker, Kubernetes, AWS, GCP, CI/CD (GitHub Actions), Terraform, Linux / Bash, Nginx</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### ⚡ &nbsp;The Battle Party (Skills & Technologies)
+### Featured Engineering Projects
 
-Production-ready skills and technologies categorized by Pokémon Elemental affinities across targeted engineering roles:
+#### 1. [Gold Lending Platform](https://github.com/rahul-1909/gold-lending-platform)
+> **Full-Stack Enterprise Loan Lifecycle & Bullion Valuation Engine**
+- **Architecture**: Engineered an end-to-end fintech loan origination platform automating digital KYC onboarding, real-time 75% LTV bullion valuation calculator (8K–24K), collateral inspection verification, and multi-tier approval/disbursement workflows.
+- **Security & Concurrency**: Implemented stateless JWT role-based access control (RBAC) across distinct administrative roles and ensured acid-compliant transactional integrity in MySQL.
+- **Tech Stack**: `Java 17` &middot; `Spring Boot 3.5` &middot; `Angular 20` &middot; `Tailwind CSS` &middot; `Angular Material` &middot; `MySQL 9` &middot; `JWT`
 
-#### 🔥 &nbsp;Fire Type &mdash; Backend Engineering & Distributed Systems
-> *Blazing-fast microservices, resilient APIs, multithreading, and enterprise architecture.*
+#### 2. [Natural Language to SQL Converter](https://github.com/rahul-1909/Natural-Language-to-SQL-Converter)
+> **Voice-Dictated Text-to-SQL Copilot with Interactive Visual Analytics**
+- **Architecture**: Built an applied GenAI analytics copilot enabling non-technical operators to query complex relational data via natural language and real-time speech dictation.
+- **Data & Ingestion**: Integrated Groq Whisper API for low-latency speech transcription, automated schema introspection, and orchestrated hybrid data ingestion across SQLite, MySQL, and auto-mapped CSVs with dynamic Plotly visualizations.
+- **Tech Stack**: `Python` &middot; `Groq Whisper API` &middot; `LLMs / Prompt Engineering` &middot; `SQLite` &middot; `MySQL` &middot; `Plotly`
 
-<p align="left">
-  <a href="https://dev.java" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://spring.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://isocpp.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman / REST APIs" title="Postman / REST APIs" width="45" height="45"/></a>
-</p>
+#### 3. [ROS Telemetry & Robotics Diagnostics](https://github.com/rahul-1909/ROS-telemetry)
+> **Real-Time Sensor Telemetry Stream Processor & Robotics Monitor**
+- **Architecture**: Developed a real-time sensor telemetry streaming and diagnostic application for the Robot Operating System (ROS), capturing streaming data, node states, and health metrics for mission-critical runtime inspection.
+- **Reliability**: Structured modular logging utilities and a lightweight graphical dashboard for low-latency status observation and performance debugging.
+- **Tech Stack**: `Python` &middot; `Robot Operating System (ROS)` &middot; `Real-Time Telemetry` &middot; `Logging Architecture` &middot; `GUI`
 
-#### 🧠 &nbsp;Psychic Type &mdash; Artificial Intelligence & Machine Learning Engineering
-> *Intelligent copilots, deep learning models, LLMs, voice dictation, and vector search.*
-
-<p align="left">
-  <a href="https://pytorch.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://tensorflow.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://scikit-learn.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" title="Scikit-Learn" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://opencv.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://numpy.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="45" height="45"/></a>
-</p>
-
-#### ⚡ &nbsp;Electric Type &mdash; Full-Stack & Modern Web Development
-> *High-performance user interfaces, reactive state management, and modern component systems.*
-
-<p align="left">
-  <a href="https://react.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://angular.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" title="Angular" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://nextjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://html.spec.whatwg.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://w3.org/Style/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="45" height="45"/></a>
-</p>
-
-#### 💧 &nbsp;Water Type &mdash; Data Engineering & Event Streaming
-> *Scalable persistence, real-time message streams, caching, and data ingestion.*
-
-<p align="left">
-  <a href="https://postgresql.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://mysql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://kafka.apache.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Apache Kafka" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://redis.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://spark.apache.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" title="Apache Spark" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://sqlite.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="45" height="45"/></a>
-</p>
-
-#### ⚙️ &nbsp;Steel Type &mdash; DevOps, Cloud & Site Reliability Engineering (SRE)
-> *Ironclad deployments, container orchestration, CI/CD automation, and 99.9% uptime.*
-
-<p align="left">
-  <a href="https://docker.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://kubernetes.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS Cloud" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://cloud.google.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" title="Google Cloud" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/features/actions" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://terraform.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://kernel.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://prometheus.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://grafana.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="45" height="45"/></a>&nbsp;&nbsp;
-  <a href="https://nginx.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="45" height="45"/></a>
-</p>
+#### 4. [Enterprise Employee Portal](https://github.com/rahul-1909/Employee_Portal)
+> **Full-Stack Corporate Workspace & Workforce Administration System**
+- **Architecture**: Centralized enterprise workforce portal streamlining staff directory lookups, employee records, department structures, and internal administrative tracking.
+- **Modularity**: Implemented component-driven UI modules coupled with typed REST API endpoints for maintainable enterprise scaling.
+- **Tech Stack**: `TypeScript` &middot; `Frontend UI` &middot; `REST APIs` &middot; `Node.js` &middot; `Full-Stack Architecture`
 
 ---
 
-### 🏆 &nbsp;Legendary Quests (Featured Projects)
+### Connect &amp; Inquiries
 
-<table width="100%">
-  <tr>
-    <td width="95" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/149.gif" width="85" alt="Dragonite" /><br/>
-      <sub><b>Dragonite</b></sub>
-    </td>
-    <td valign="top">
-      <h3>🥇 <a href="https://github.com/rahul-1909/gold-lending-platform">Gold Lending Platform</a></h3>
-      <p><b>Enterprise Loan Lifecycle & Bullion Valuation Engine</b></p>
-      <p>End-to-end full-stack platform automating high-value lending: customer digital KYC onboarding, live 75% LTV bullion valuation calculator (8K-24K), collateral inspection modals, multi-role approval, and disbursement decisioning.</p>
-      <p><code>Spring Boot 3.5</code> <code>Angular 20</code> <code>Tailwind CSS</code> <code>MySQL 9</code> <code>JWT RBAC</code></p>
-      <a href="https://github.com/rahul-1909/gold-lending-platform">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="95" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif" width="85" alt="Mewtwo" /><br/>
-      <sub><b>Mewtwo</b></sub>
-    </td>
-    <td valign="top">
-      <h3>🔮 <a href="https://github.com/rahul-1909/Natural-Language-to-SQL-Converter">NL-to-SQL Analytics Copilot</a></h3>
-      <p><b>Voice-Dictated Text-to-SQL Analytics Engine with Plotly</b></p>
-      <p>Intelligent analytics copilot featuring real-time speech dictation (Groq Whisper), schema introspection, hybrid data ingestion (SQLite demo, CSV auto-mapping, MySQL), and automatic Plotly interactive visualizations.</p>
-      <p><code>Python</code> <code>Groq Whisper</code> <code>GenAI / LLMs</code> <code>Plotly</code> <code>SQL</code></p>
-      <a href="https://github.com/rahul-1909/Natural-Language-to-SQL-Converter">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="95" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/376.gif" width="85" alt="Metagross" /><br/>
-      <sub><b>Metagross</b></sub>
-    </td>
-    <td valign="top">
-      <h3>🤖 <a href="https://github.com/rahul-1909/ROS-telemetry">ROS Telemetry & Analytics</a></h3>
-      <p><b>Robotics Operating System Telemetry & Monitoring</b></p>
-      <p>Real-time sensor telemetry stream processor and diagnostic tool for robotics systems, capturing runtime metrics and node status for mission-critical operations.</p>
-      <p><code>Python</code> <code>ROS</code> <code>Telemetry</code> <code>Real-Time Streaming</code> <code>GUI</code></p>
-      <a href="https://github.com/rahul-1909/ROS-telemetry">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="95" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="85" alt="Charizard" /><br/>
-      <sub><b>Charizard</b></sub>
-    </td>
-    <td valign="top">
-      <h3>💼 <a href="https://github.com/rahul-1909/Employee_Portal">Enterprise Employee Portal</a></h3>
-      <p><b>Full-Stack Corporate Workspace & Workforce Administration Platform</b></p>
-      <p>Modern workforce portal streamlining corporate directory operations, profile management, and administrative tracking with modular frontend and backend architectures.</p>
-      <p><code>TypeScript</code> <code>Full-Stack</code> <code>REST APIs</code> <code>Workforce Management</code></p>
-      <a href="https://github.com/rahul-1909/Employee_Portal">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github" alt="Repo" />
-      </a>
-    </td>
-  </tr>
-</table>
+I am actively open to discussing software engineering, backend systems, and applied AI/ML roles.
 
----
-
-### ⚔️ &nbsp;Challenge Rahul to a Battle (Let's Connect!)
-
-Got an interesting problem, a high-impact engineering role, or an ambitious system to build? Let's connect!
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nallarahulteja" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:nrahulteja@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-nrahulteja@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Email" />
-</a>
-&nbsp;
-<a href="https://github.com/rahul-1909?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<!-- ANIMATED PIKACHU -->
-<a href="https://github.com/rahul-1909">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="90" alt="Pikachu" />
-</a>
-
-<br/>
-<sub><i>"There's no limit to how much a Pokémon—or a software engineer—can grow."</i></sub>
-
-</div>
+- **LinkedIn**: [linkedin.com/in/nallarahulteja](https://www.linkedin.com/in/nallarahulteja)
+- **Email**: [nrahulteja@outlook.com](mailto:nrahulteja@outlook.com)
+- **GitHub**: [github.com/rahul-1909](https://github.com/rahul-1909)
